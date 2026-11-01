@@ -1,0 +1,13 @@
+node_modules
+.venv
+.git
+data
+.runtime
+output
+dist
+tests
+__pycache__
+archive
+.venv-before-move-*
+.env*
+.vercel

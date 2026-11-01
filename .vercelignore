@@ -1,0 +1,17 @@
+.git
+.venv*
+node_modules
+data
+archive
+.runtime
+output
+tests
+design
+docs
+.env*
+*.log
+__pycache__
+*.tsbuildinfo
+.playwright-cli
+.agents
+.codex
